@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @camieelaine
-- 👀 I’m interested in data visualization
-- 🌱 I’m currently learning svelte.js and d3
+- 👋 Hi, I’m Camie DeCovich @camieelaine
+- </> I am a full-stack data engineer
+- 👀 SQL and Python are my top languages
+- 🌱 
 
 
 <!---
