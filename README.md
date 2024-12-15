@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### I'm Camie. Based in Alaska, USA 📍
-Accomplished data and analytics engineer, currently working as a Lead Data Engineer with Aetna/CVS Health Medicare Stars Data Intelligence team. :computer:
+Accomplished data and analytics engineer, currently working as a Lead Data Engineer with Aetna/CVS Health Medicare Stars Data Intelligence team. 📊 
 
 I use the modern cloud data stack to develop pipelines to provide data products and analytical solutions. :chart_with_upwards_trend: 
 
-What I'm working with  
+What I'm working with 🧰
 
 | Languages and Frameworks | Visualization |  Data Orchestration and </br> Processing  | Databases  |
 | ----------- | ------------- |  --------------|------------|
