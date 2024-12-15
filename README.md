@@ -13,7 +13,7 @@ What I'm working with 🧠
 | ![csharp](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) | ![power-bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white) | ![microsoft-azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)|  ![sqlserver](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=streamlit&logoColor=white)  |
 | ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![qlik](https://img.shields.io/badge/-Qlik-009848?style=flat&logo=qlik&logoColor=white) | | ![pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) | ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff) |
 | ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) | ![tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white). | | 
-| ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white) | | | 
+| ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white) | ![d3js](https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white). | | 
 | ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)  | | | 
 | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff) | | | 
 | ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
