@@ -14,6 +14,7 @@ What I'm working with 🧠
 | ![sql](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![qlik](https://img.shields.io/badge/-Qlik-009848?style=flat&logo=qlik&logoColor=white) | | ![pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) | ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff) |
 | ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) | | | 
 | ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white) | | | 
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)  | | | 
 
 - 👀 
 
