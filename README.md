@@ -5,7 +5,7 @@ Accomplished data and analytics engineer, currently working as a Lead Data Engin
 
 I use the modern cloud data stack to develop pipelines to provide data products and analytical solutions. 🌱
 
-What I'm working with 🧠
+What I'm working with :computer:
 
 | Languages and Frameworks | Visualization |  Data Orchestration and </br> Processing  | Databases  |
 | ----------- | ------------- |  --------------|------------|
