@@ -18,7 +18,7 @@ What I'm working with :chart_with_upwards_trend:
 | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff) | | | 
 | ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
 
-- 👀 
+
 
 
 
